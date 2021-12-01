@@ -6,15 +6,10 @@ coverage/
 node_modules/
 
 .env
-dotenv
 *.proxies
 success-*.png
 screenshots/
 
-*.wav
-*.mp3
-*.flac
-*.exe
 desktop.ini
 
 twitch.json
